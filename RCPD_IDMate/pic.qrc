@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>RCLog.png</file>
+        <file>half.png</file>
+    </qresource>
+</RCC>
