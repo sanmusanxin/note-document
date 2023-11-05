@@ -1,0 +1,4 @@
+克隆到本地的时候需要
+git clone git@github.com:sanmusanxin/note-document.git
+才有效
+克隆到本地之后发现没有.git文件，可能是需要在资源管理器查看选项中勾选显示隐藏的项目
