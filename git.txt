@@ -19,6 +19,8 @@ git 使用
 
 一旦本地仓库中文件有修改、添加，都需要重新执行以上步骤
 
+若远程仓库中的内容变更，想要将变更同步到本地需要以下指令
+git pull origin main
 
 克隆到本地的时候需要
 git clone git@github.com:sanmusanxin/note-document.git
